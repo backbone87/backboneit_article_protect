@@ -1,0 +1,22 @@
+=== Titel
+
+
+
+=== Suchbegriffe
+
+
+
+=== Teaser
+
+
+
+=== Beschreibung
+
+
+
+=== Freigabe-Notizen und Änderungs-Log
+<p>see manual link</p>
+
+
+=== Handbuch-Link
+https://github.com/backbone87/backboneit_article_protect/issues

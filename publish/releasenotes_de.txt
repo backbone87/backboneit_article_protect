@@ -1,0 +1,26 @@
+=== Titel
+Zugriffsschutz für Artikel
+
+
+=== Suchbegriffe
+artikel,zugriffsschutz,protect,guest,gäste
+
+
+=== Teaser
+Bietet die Optionen "Zugriffsschutz" und "Nur Gästen anzeigen" auch für Artikel an
+
+
+=== Beschreibung
+
+
+
+=== Freigabe-Notizen und Änderungs-Log
+<p>siehe Handbuch-Link</p>
+
+
+=== Handbuch-Link
+https://github.com/backbone87/backboneit_article_protect/issues
+
+
+=== Forum-Link
+
