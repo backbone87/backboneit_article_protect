@@ -22,7 +22,7 @@ $GLOBALS['TL_DCA']['tl_article']['fields']['protected'] = array(
 );
 
 $GLOBALS['TL_DCA']['tl_article']['fields']['groups'] = array(
-	'label'			=> &$GLOBALS['TL_LANG']['tl_article']['protected'],
+	'label'			=> &$GLOBALS['TL_LANG']['tl_article']['groups'],
 	'exclude'		=> true,
 	'inputType'		=> 'checkbox',
 	'foreignKey'	=> 'tl_member_group.name',
