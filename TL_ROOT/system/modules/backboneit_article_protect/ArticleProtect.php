@@ -21,7 +21,7 @@ class ArticleProtect extends Controller {
 			return;
 		}
 		
-		$arrGroups = deserialize($objRow->groups, true);
+		$arrGroups = deserialize($objArticle->groups, true);
 		$objArticle->published = array_intersect($arrGroups, $this->User->groups) ? '1' : '';
 	}
 	
