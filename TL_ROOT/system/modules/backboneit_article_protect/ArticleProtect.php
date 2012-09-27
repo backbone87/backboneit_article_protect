@@ -17,7 +17,7 @@ class ArticleProtect extends Controller {
 		}
 		
 		if(!FE_USER_LOGGED_IN) {
-			$objArticle->publish = '';
+			$objArticle->published = '';
 			return;
 		}
 		
